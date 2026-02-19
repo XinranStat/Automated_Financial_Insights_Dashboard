@@ -75,5 +75,3 @@ quarto render market_analysis_dashboard.qmd
 4. Enable GitHub Pages in your repository settings, pointing to the /docs folder.
 
 ---
-
-生成此 README 后，你需要我继续帮你写那个自动化的 GitHub Action 脚本吗？
