@@ -1,4 +1,4 @@
-```markdown
+
 # MarketSenseAI: Automated Financial Insights Dashboard
 
 [cite_start]MarketSenseAI is an end-to-end data pipeline that scrapes global financial news, performs AI-driven sentiment analysis, and correlates findings with market data[cite: 1, 11]. [cite_start]It transforms raw reporting from Financial Times and The Economist into a strategic executive dashboard[cite: 1, 15].
